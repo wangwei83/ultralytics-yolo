@@ -5,7 +5,7 @@ import torch
 model = torch.hub.load('ultralytics/yolov5', 'yolov5s', pretrained=True)
 
 # 打开MP4视频文件
-video_path = 'videoplayback.mp4'
+video_path = '高空抛物视频.mp4'
 cap = cv2.VideoCapture(video_path)
 
 while True:
