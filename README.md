@@ -4,8 +4,11 @@
 # https://github.com/ultralytics/ultralytics
 
 # 论文
-# Simon, M., Milz, S., Amende, K., & Gross, H.-M. (2018). Complex-YOLO: Real-time 3D Object Detection on Point Clouds. In arXiv [cs.CV]. arXiv. http://arxiv.org/abs/1803.06199
-# Cheng, T., Song, L., Ge, Y., Liu, W., Wang, X., & Shan, Y. (2024). YOLO-World: Real-Time Open-Vocabulary Object Detection. In arXiv [cs.CV]. arXiv. http://arxiv.org/abs/2401.17270#
+## 
+## Simon, M., Milz, S., Amende, K., & Gross, H.-M. (2018). Complex-YOLO: Real-time 3D Object Detection on Point Clouds. In arXiv [cs.CV]. arXiv. http://arxiv.org/abs/1803.06199
+## Wang, C.-Y., Bochkovskiy, A., & Liao, H.-Y. M. (2023). YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 7464–7475. http://openaccess.thecvf.com/content/CVPR2023/html/Wang_YOLOv7_Trainable_Bag-of-Freebies_Sets_New_State-of-the-Art_for_Real-Time_Object_Detectors_CVPR_2023_paper.html
+## Glenn Jocher, Ayush Chaurasia, and Jing Qiu. Yolo by ultralytics, 2023. https://github.com/ultralytics/ ultralytics. 也就是yolov8
+## Cheng, T., Song, L., Ge, Y., Liu, W., Wang, X., & Shan, Y. (2024). YOLO-World: Real-Time Open-Vocabulary Object Detection. In arXiv [cs.CV]. arXiv. http://arxiv.org/abs/2401.17270#
 
 # https://docs.ultralytics.com/models/yolo-world/                        CVPR2024，上可通天；
 # https://www.ultralytics.com/zh/solutions/ai-in-self-driving            自动驾驶，下可达地。
