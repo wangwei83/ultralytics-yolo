@@ -1,7 +1,7 @@
 # ultralytics-yolov8
 
-# https://docs.ultralytics.com/quickstart/#use-ultralytics-with-python  主要参考文档来源
-# https://github.com/ultralytics/ultralytics
+## https://docs.ultralytics.com/quickstart/#use-ultralytics-with-python  主要参考文档来源
+## https://github.com/ultralytics/ultralytics
 
 # 论文
 ## 
@@ -10,8 +10,8 @@
 ## Glenn Jocher, Ayush Chaurasia, and Jing Qiu. Yolo by ultralytics, 2023. https://github.com/ultralytics/ ultralytics. 也就是yolov8
 ## Cheng, T., Song, L., Ge, Y., Liu, W., Wang, X., & Shan, Y. (2024). YOLO-World: Real-Time Open-Vocabulary Object Detection. In arXiv [cs.CV]. arXiv. http://arxiv.org/abs/2401.17270#
 
-# https://docs.ultralytics.com/models/yolo-world/                        CVPR2024，上可通天；
-# https://www.ultralytics.com/zh/solutions/ai-in-self-driving            自动驾驶，下可达地。
+## https://docs.ultralytics.com/models/yolo-world/                        CVPR2024，上可通天；
+## https://www.ultralytics.com/zh/solutions/ai-in-self-driving            自动驾驶，下可达地。
 
 conda create -n ultralytics
 
