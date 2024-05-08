@@ -17,4 +17,4 @@ results = model(img)
 results.show()
 
 # 保存带有检测框的图像
-results.save(save_dir='./')
+# results.save(save_dir='./')
